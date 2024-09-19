@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad89ad2f-9121-48ce-ac7c-6c975624cd1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadesLacoDeRepeticao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AtividadeExtra7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AtividadeExtra8.java" afterDir="false" />
+    <list default="true" id="ad89ad2f-9121-48ce-ac7c-6c975624cd1c" name="Changes" comment="LaçoDeRepetição">
+      <change afterPath="$PROJECT_DIR$/src/AtividadeExtra9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JoaoPerico"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JoaoPerico/AtividadesLacoDeRepeticao.git",
+    "accountId": "bceae4e6-ec47-4a82-af5e-69289a1237c5"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -55,6 +54,7 @@
     "Application.Atividade6.executor": "Run",
     "Application.AtividadeExtra7.executor": "Run",
     "Application.AtividadeExtra8.executor": "Run",
+    "Application.AtividadeExtra9.executor": "Run",
     "Application.AtividadesExtras7.executor": "Run",
     "Application.AtividedaExtra7.executor": "Run",
     "Application.Main.executor": "Run",
@@ -71,7 +71,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AtividadeExtra8">
+  <component name="RunManager" selected="Application.AtividadeExtra9">
     <configuration name="Atividade2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Atividade2" />
       <module name="AtividadesLacoDeRepeticao" />
@@ -93,13 +93,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AtividadeExtra9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AtividadeExtra9" />
+      <module name="AtividadesLacoDeRepeticao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Atividade2" />
       <item itemvalue="Application.AtividadeExtra8" />
+      <item itemvalue="Application.AtividadeExtra9" />
       <item itemvalue="Application.AtividadeExtra7" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AtividadeExtra9" />
         <item itemvalue="Application.AtividadeExtra8" />
         <item itemvalue="Application.Atividade2" />
         <item itemvalue="Application.AtividadeExtra7" />
@@ -137,12 +146,25 @@
       <workItem from="1726595821869" duration="2622000" />
       <workItem from="1726764440687" duration="1119000" />
       <workItem from="1726765595848" duration="794000" />
-      <workItem from="1726766420877" duration="1017000" />
+      <workItem from="1726766420877" duration="1976000" />
     </task>
+    <task id="LOCAL-00001" summary="LaçoDeRepetição">
+      <option name="closed" value="true" />
+      <created>1726767642245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726767642245</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LaçoDeRepetição" />
+    <option name="LAST_COMMIT_MESSAGE" value="LaçoDeRepetição" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AtividadesLacoDeRepeticao$AtividedaExtra7.ic" NAME="AtividedaExtra7 Coverage Results" MODIFIED="1726766307390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
